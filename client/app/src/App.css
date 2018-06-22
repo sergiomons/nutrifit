@@ -1,0 +1,84 @@
+.App {
+  text-align: center;
+}
+
+main{
+  min-height: 620px
+}
+
+.card-header{
+  background-color: #6c757d;
+  color: white;
+  border: 2px solid rgba(170, 167, 167, 0.856);
+  border-radius: 10px;
+  border-top-left-radius: calc(1rem - 1px);
+  border-top-right-radius: calc(1rem - 1px);
+  font-weight: bold;
+  font-size: 1.2rem; 
+}
+
+.col-xl-4 col-lg-6 col-md-12 col-sm-12 col-xs-12{
+  width:100%;
+  height: 100%;
+}
+.card {
+  
+  min-width: 300px;
+  margin: 20px;
+  /* border: 2px solid rgba(170, 167, 167, 0.856); */
+  border-radius: calc(1.2rem - 1px);
+  box-shadow: 0 4px 8px 0 rgba(170, 167, 167, 0.856);
+}
+
+.card-img-top {
+  opacity: 0.92;
+  height: 250px;
+  border-top-left-radius: calc(1rem - 1px);
+  border-top-right-radius: calc(1rem - 1px);
+}
+
+.card-title {
+  margin: 0px 0 20px 0;
+  padding: 15px 0 15px 0;
+  color: white;
+  background-color: #6c757d; 
+  border-bottom: 2px solid rgba(0,0,0,.125);
+}
+
+.card-text {
+  margin: 10px 0 0 0;
+  font-size: 1.5em;
+  padding-bottom: 5px;
+  /* border-bottom: 2px solid rgba(170, 167, 167, 0.856); */
+}
+.card-bottom {
+  margin: 0;
+  color: white;
+  background-color: rgba(255, 255, 255, 0.863); 
+  border-bottom-left-radius: calc(1rem - 1px);
+  border-bottom-right-radius: calc(1rem - 1px);
+  padding: 15px 0 15px 0;
+
+}
+
+.btn-outline-secondary {
+  color: #337ab9;
+  border-color: #337ab9;
+}
+
+.btn-outline-secondary:hover {
+  color: #fff;
+  background-color: #337ab9;
+  border-color: #0c3457;
+}
+.btn-outline-dark {
+  color: #569b3f;
+  border-color: #569b3f;
+}
+
+.btn-outline-dark:hover {
+  color: #fff;
+  background-color: #2d8f53;
+  border-color: #37502f;
+}
+

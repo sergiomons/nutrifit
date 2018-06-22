@@ -1,0 +1,48 @@
+.form {
+    margin-top: 140px;
+}
+.form-group {
+    font-size: 1.3rem;
+}
+.btn:nth-child(4) {
+    color: #fff;
+    background-color: #2d8f53;
+    border-color: #619270;
+    font-size: 1.3rem;
+}
+    
+.btn-dark:hover {
+    color: #fff;
+    background-color: #1f6e33;
+    border-color: #d1d1d1;
+}
+
+.checkbox {
+    margin: 45px 0 20px;
+    text-align: left;
+}
+input[placeholder] {
+    text-align: center;
+}
+.body-login {
+    height: 700px;
+    background: url('http://www.lg.com/es/images/CA/features/YDRAY-1600x800-cocina-sana.png') no-repeat fixed center;
+    background-size: cover;
+}
+.p-regist{
+    color: white;
+    font-size: 1.1rem;
+}
+#span {
+    font-size: 1.3rem;
+    color: #7c9cb9;
+    margin-left: 5px;
+}
+.checkbox{
+    color: white;
+}
+.errorLogin{
+    color: red;
+    font-size:"0.9rem";
+    margin-top: "5px";
+}

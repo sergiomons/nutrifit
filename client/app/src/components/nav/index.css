@@ -1,0 +1,65 @@
+
+
+nav.navbar ul.nav li {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-right: 20px;
+}
+.navbar-brand{
+  font-size: 1.7rem
+}
+
+/* .navbar-text {
+    display: inline-block;
+    padding-top: 4rem;
+    padding-bottom: 0.5rem;
+  } */
+
+  .navbar-dark .navbar-text a {
+    color: rgba(253, 253, 253, 0.9);
+    font-size: 7em;
+  }
+
+  .btn-secondary {
+    color: #fff;
+    background-color: #337ab9;
+    border-color: #5789b4;
+  }
+  
+  .btn-secondary:hover {
+    color: #fff;
+    background-color: #004e8a;
+    border-color: #d9dee4;
+  }
+
+  .btn-dark {
+    color: #fff;
+    background-color: #2d8f53;
+    border-color: #619270;
+  }
+  
+  .btn-dark:hover {
+    color: #fff;
+    background-color: #1f6e33;
+    border-color: #d1d1d1;
+  }
+
+  #iconNav {
+    color: white;
+    font-size: 1.3rem;
+    margin-right: 10px
+}
+#numBadget {
+  position: relative;
+  bottom: 15px;
+  right:9px;
+  font-size: 0.7rem
+}
+
+#spanBrand{
+  color: rgb(132, 187, 119);
+  font-size: 2rem;
+font-weight: bold
+}
+
+
+ 

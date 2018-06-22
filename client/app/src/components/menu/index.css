@@ -1,0 +1,34 @@
+.list-group-item {
+    background-color: rgba(255, 253, 253, 0.932);
+    font-size: 1.2em;
+    color: #6c757d;
+    text-align: center;
+    border: 2px solid lightgray;
+    text-decoration: none;
+}
+
+.list-group-item:hover {
+    background-color: #6c757d;
+    color: white;
+}
+  
+.list-group-item:first-child {
+    border-top-left-radius: 1.2rem;
+    border-top-right-radius: 1.2rem;
+}
+
+.list-group-item:last-child {
+    border-bottom-right-radius: 1.2rem;
+    border-bottom-left-radius: 1.2rem;
+}
+
+.list-group-item.active {
+    background-color: #6c757d;
+    border-color: #7b838f;
+}
+
+.linkMenu{
+    background-color: red;
+    color: white
+}
+

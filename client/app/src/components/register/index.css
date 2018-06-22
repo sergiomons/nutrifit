@@ -1,0 +1,43 @@
+/* form {
+    margin-top: 100px;
+} */ 
+.body-register {
+    height: 700px;
+    background: url('https://about.whisk.com/wp-content/uploads/2014/12/dark-wood-and-vegetables.jpg') no-repeat fixed center;
+    background-size: cover;
+}
+.form-group {
+    font-size: 1.3rem;
+    color: white;
+    margin-top: 18px;
+}
+.btn:nth-child(5) {
+    color: #fff;
+    background-color: #337ab9;
+    border-color: #5789b4;
+    font-size: 1.3rem;
+}
+
+.btn-secondary:hover {
+    color: #fff;
+    background-color: #004e8a;
+    border-color: #d9dee4;
+}
+
+input[placeholder] {
+    text-align: center;
+}
+.p-login{
+    color: white;
+    font-size: 1.2rem;
+}
+#spanRegist {
+    font-size: 1.3rem;
+    color: #3d8f51;
+    font-weight: bold;
+    margin-left: 5px;
+}
+.errorRegist{
+    color: red;
+    font-size:"0.9rem";
+}
